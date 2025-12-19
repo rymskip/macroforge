@@ -1,0 +1,11 @@
+[package]
+name = "macroforge"
+version = "0.1.0"
+edition = "2024"
+description = "Helper utilities for writing Rust macros."
+license = "MIT"
+repository = "https://github.com/rymskip/macroforge"
+readme = "README.md"
+keywords = ["macros", "utility"]
+
+[dependencies]
